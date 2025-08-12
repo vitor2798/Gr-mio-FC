@@ -2,3 +2,16 @@ body{
 background-color: rgb(56, 56, 204);
 color: #ebae06;
 }
+
+.container {max-width: 800px;
+    margin: 0 auto;
+    text-align: justify;
+padding: 20px;
+}
+    
+    
+    
+    
+
+
+
